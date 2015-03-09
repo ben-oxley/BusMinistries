@@ -1,3 +1,4 @@
-28/2/15 - 2 Hours worked at Zero Rate
-4/3/15 - 2 Hours worked at Full Rate
-5/3/15 - 1 Map now working on website and theme tweaks
+28/2/15 - 2 Hours - Worked at Zero Rate
+4/3/15 - 2 Hours - Worked at Full Rate
+5/3/15 - 1 Hour - Map now working on website and theme tweaks
+9/3/15 - 1 Hour - Updated visual theme, added websites to json data
